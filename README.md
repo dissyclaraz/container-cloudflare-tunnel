@@ -146,3 +146,5 @@ See the [LICENSE](./LICENSE) file for more detailed information.
 
 - [Cloudflare Tunnel Documentation](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/): Learn more about how Cloudflare Tunnel works and its various use cases.
 - [Docker Documentation](https://docs.docker.com/): Official Docker documentation for commands and features used in this setup.
+
+- https://medium.com/@svenvanginkel/self-hosting-securely-with-cloudflare-zero-trust-tunnels-0a9169378f78
